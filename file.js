@@ -43,6 +43,12 @@ form.addEventListener('submit' , (event)=>{
     //     console.log(email.value);
     // }
 
+    console.log(name.value)
+    console.log(age.value)
+    console.log(email.value)
+    console.log(cnic.value)
+    console.log(password.value)
+
 } )
 
 
